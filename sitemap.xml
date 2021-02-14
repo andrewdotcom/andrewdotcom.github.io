@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/snippet/another-test/</loc>
+    <loc>http://askinner.dev/snippet/another-test/</loc>
     <lastmod>2021-02-14T00:01:13+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://askinner.dev/</loc>
     <lastmod>2021-02-14T00:01:13+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/snippet/test-snippet/</loc>
+    <loc>http://askinner.dev/snippet/test-snippet/</loc>
     <lastmod>2021-02-13T23:55:18+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/2021/01/21/my-first-post/</loc>
+    <loc>http://askinner.dev/2021/01/21/my-first-post/</loc>
     <lastmod>2021-01-21T14:27:12+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://askinner.dev/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
