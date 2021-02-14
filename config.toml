@@ -1,4 +1,4 @@
-baseURL = "http://askinner.dev/"
+baseURL = "https://askinner.dev/"
 languageCode = "en-us"
 title = "askinner.dev"
 theme = "hugo-lithium-theme"
