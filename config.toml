@@ -11,6 +11,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     page = "/:title/"
 
 [[menu.main]]
+    name = "Home"
+    url = "/"
+[[menu.main]]
     name = "About"
     url = "/about/"
 [[menu.main]]
