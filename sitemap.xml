@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://askinner.dev/snippet/another-test/</loc>
-    <lastmod>2021-02-14T00:01:13+11:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://askinner.dev/</loc>
+    <lastmod>2021-02-26T15:07:28+11:00</lastmod>
+  </url><url>
+    <loc>https://askinner.dev/2021/02/26/weeknotes-week-1/</loc>
+    <lastmod>2021-02-26T15:07:28+11:00</lastmod>
+  </url><url>
+    <loc>https://askinner.dev/snippet/another-test/</loc>
     <lastmod>2021-02-14T00:01:13+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://askinner.dev/snippet/test-snippet/</loc>
     <lastmod>2021-02-13T23:55:18+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://askinner.dev/2021/01/21/my-first-post/</loc>
     <lastmod>2021-01-21T14:27:12+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://askinner.dev/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
-  
 </urlset>
