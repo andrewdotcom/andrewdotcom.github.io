@@ -6,7 +6,17 @@
     <description>Recent content on askinner.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Feb 2021 15:07:28 +1100</lastBuildDate><atom:link href="https://askinner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 21:52:54 +1100</lastBuildDate><atom:link href="https://askinner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I calculate my carbon footprint</title>
+      <link>https://askinner.dev/2021/03/01/how-i-calculate-my-carbon-footprint/</link>
+      <pubDate>Mon, 01 Mar 2021 21:52:54 +1100</pubDate>
+      
+      <guid>https://askinner.dev/2021/03/01/how-i-calculate-my-carbon-footprint/</guid>
+      <description>I thought that I would write a few words about how I calculate the Co2 emissions that I post to Twitter each day.
+On my property I have 32 Tindo Solar panels producing 15kWh of energy from the sun. Each day after the sun has gone down, I sum what has been generated and post it to Twitter along with an estimate of how much Co2 it has saved from my daily carbon footprint.</description>
+    </item>
+    
     <item>
       <title>Weeknotes Week 1</title>
       <link>https://askinner.dev/2021/02/26/weeknotes-week-1/</link>
