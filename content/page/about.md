@@ -4,7 +4,7 @@ title = "About"
 
 +++
 
-Hi! My name is Andrew Skinner. I am a ~~Brit~~ Australian living somewhere on the beautiful [NSW Central Coast](https://en.wikipedia.org/wiki/Central_Coast_(New_South_Wales)). I self identify as a Software Engineer, data geek and maker of things. I have been doing these things for quite a long time. I specialise getting technology into challenging environments (and yes, that can also include offices, peoples living rooms and into web browsers). As such, I lead teams of talented digital experts inventing and delivering new software products and services across industries. For the last few years I have been working in Agriculture.
+Hi! My name is Andrew Skinner. I am a ~~Brit~~ Australian living somewhere on the beautiful [NSW Central Coast](https://en.wikipedia.org/wiki/Central_Coast_(New_South_Wales)). I am a Software Engineer, data geek and maker of things. I have been doing these things for quite a long time. I specialise getting technology into challenging environments (and yes, that can also include offices, people's living rooms and into web browsers). As such, I lead teams of talented digital experts inventing and delivering new software products and services across industries. For the last few years I have been working in Agriculture.
 
 I have a long torrid history of blogging. I often wonder if I may be the most failed blogger on the web. After literally hundreds of failed attempts and broken new year resolutions I now look with envy at many of my friends and colleagues who have persevered with writing over the years and who now have a rich record of their lives and professional careers. This is my final attempt to do something similar for myself.
 
