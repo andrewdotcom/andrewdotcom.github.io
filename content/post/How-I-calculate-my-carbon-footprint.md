@@ -1,5 +1,5 @@
 ---
-title: "How I calculate my carbon footprint"
+title: "How I calculate my carbon savings"
 date: 2021-03-01T21:52:54+11:00
 draft: false
 ---
