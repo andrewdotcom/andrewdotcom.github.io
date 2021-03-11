@@ -4,7 +4,7 @@ date: 2021-03-12T06:27:42+11:00
 draft: false
 ---
 
-Tired. Soooo tired. I've been in the office in Sydney a few times this week to start to get myself back into the swing of what work used to be like. ZTo be honest, i'm not sure how I used to do it. Getting up before five and commuting for 4 hours a day isn't fun but it could be worse. The downside is that I am a bit tired and grumpy by the time Friday comes around - it doesn't help that yesterday I got home to find that my two new Silkie chickens had figured out a way to get out of the hen house (i'm still not 100% sure how they did it) and are now missing. Chooks outside of the hen house have not faired well to date so I am not holding out hope I will see them again.
+Tired. Soooo tired. I've been in the office in Sydney a few times this week to start to get myself back into the swing of what work used to be like. To be honest, i'm not sure how I used to do it. Getting up before five and commuting for 4 hours a day isn't fun but it could be worse. The downside is that I am a bit tired and grumpy by the time Friday comes around - it doesn't help that yesterday I got home to find that my two new Silkie chickens had figured out a way to get out of the hen house (i'm still not 100% sure how they did it) and are now missing. Chooks outside of the hen house have not faired well to date so I am not holding out hope I will see them again.
 
 It's been another challenging week with work - at the end of the day adults are just kids in bigger bodies, in many ways kids might have it more together.
 
