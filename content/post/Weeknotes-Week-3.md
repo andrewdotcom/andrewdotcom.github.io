@@ -1,6 +1,6 @@
 ---
 title: "Weeknotes Week 3"
-date: 2021-03-12T20:27:42+11:00
+date: 2021-03-12T06:27:42+11:00
 draft: false
 ---
 
